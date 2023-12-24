@@ -1,1 +1,1 @@
-# Creat-arcGIS-story-map
+# Create-arcGIS-story-map
